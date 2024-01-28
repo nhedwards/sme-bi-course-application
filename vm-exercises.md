@@ -5,7 +5,7 @@
 - Power BI / Tableau specific: We can only run free versions of BI software in our virtual machine exercises. In the case of Power BI, make sure the exercises can run on [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) without any additional paid products. 
 - Unsure what the scope of an exercise should be? Here's an [example](https://campus.datacamp.com/courses/introduction-to-power-bi/getting-started-with-power-bi?ex=14) from Introduction to Power BI. The first chapter of most DataCamp courses are free, so take a look at our [BI courses](https://learn.datacamp.com/courses?technologies=Tableau&technologies=Power%20BI) to get a feel for how we assess and guide learners.
 
-## 3.1 Things just got personal
+## Exercise 1: Things just got personal
 
 #### Dataset
 
@@ -38,14 +38,14 @@ Which of these statements is **FALSE** of the churn category based on this analy
 2. There is no significant difference in the churn category between seniors and non-seniors.
 3. Competitors were the top churn categories in both cohorts.
 
-#### Success Message:
+#### Success message:
 Nice work! There doesn't seem to be a big different in churn categories between seniors and non-seniors. This is still valuable information, as it means we should focus on solving the same issue for all customers.
 
 #### End goal:
 
 ![Screenshot 2024-01-28 at 3 28 22 PM](https://github.com/nhedwards/sme-bi-course-application/assets/107631815/b0e65e10-ae53-4803-b2a8-5fde954a7070)
 
-## Bookworm
+## Exercise 2: Bookworm
 
 #### Dataset
 
@@ -63,14 +63,26 @@ Create Personal Bookmarks, change them, and navigate through the _Bookmarks_ pan
 
 When personalizing reports, Bookmarks save the state of the report at the moment you create them. Creating _Personal Bookmarks_ is a pro-move that will save you tons of time because instead of having to redo personalized views over and over again, you can simply save the bookmark and return to it whenever you want.
 
+_Continue using the same pbix file._
+
 #### Steps to be executed by the student (max 6)
 
-1. 
+1. Create a _Personal Bookmark_ of the report in its current state and name it "Churn by Senior Cohort".
+2. Edit the **Churn Rate by Contract Category and Gender** visualization to split the categories by `Senior` instead of `Gender`. (HINT: Add `Senior` to the _Legend_.)
+3. Update the _Churn by Senior Cohort_ bookmark to reflect the current state of the workbook.
+4. Open up the _Bookmarks_ pane. (HINT: Click on the Bookmark icon, then _Show more bookmarks_.
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+Which of the following bookmarks are available in this report? Select all that apply.
+
+- [x] Churn by Senior Cohort
+- [ ] Default
+- [x] Bookmark 1
+- [ ] Iason is Spiderman
+
+#### Success message
+Awesome work! The bookmarks you create will show up in your Personal bookmarks section, and Report bookmarks are the ones created by the report publisher. Using bookmarks, like reading a book, makes it easier to find your spot when you come back to your report.
 
 #### End goal:
 
-*Add an image of the final visualization here.*
-
+![Screenshot 2024-01-28 at 3 42 29 PM](https://github.com/nhedwards/sme-bi-course-application/assets/107631815/b2b04c3f-3fce-47cd-b888-bea1d7727e90)
