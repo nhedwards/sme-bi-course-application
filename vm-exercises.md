@@ -9,12 +9,12 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Add datasets used to the `datasets/Databel - Data.csv` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix` or `ex-1-sol.yxmd`
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix` or `ex-1-sol.yxmd`
 
 #### Learning Objective
 
@@ -49,12 +49,12 @@ Nice work! There doesn't seem to be a big different in churn categories between 
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix` or `ex-1-sol.yxmd`
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix` or `ex-1-sol.yxmd`
 
 #### Learning Objective
 
@@ -75,9 +75,9 @@ _Continue using the same pbix file._
 #### Exercise question:
 Which of the following bookmarks are available in this report? Select all that apply.
 
-- [x] Churn by Senior Cohort
+- [x] **Churn by Senior Cohort**
 - [ ] Default
-- [x] Bookmark 1
+- [x] **Bookmark 1**
 - [ ] Iason is Spiderman
 
 #### Success message
